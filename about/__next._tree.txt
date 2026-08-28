@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0.kbww6lg4kfk.css","style"]
+:HL["/_next/static/chunks/07h1p04~y8csr.css","style"]
 :HL["/raihan-yusoph-portrait.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"-JS9yGXg3G-bM_XrcunVp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"zLgmHb0v3inEjUoyn6sVx"}

@@ -3,6 +3,7 @@
 :HL["/photos/discussion-with-un-representatives-2.jpg","image"]
 :HL["/photos/nerps-conference-2026-united-nations-university.jpg","image"]
 :HL["/photos/nerps-conference-2025.jpg","image"]
-:HL["/photos/international-conference-religion-culture-peace-education-2024.jpg","image"]
+:HL["/photos/international-conference-religion-culture-peace-education-2024-cropped.png","image"]
 :HL["/photos/seahrn-6th-international-conference-2024.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gallery","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ULsl-saQ3SIprMZE0rEHN"}
+:HL["/photos/2nd-national-peace-education-summit-2023.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gallery","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"-DZpWUMcPXStHJ5fNMnyU"}

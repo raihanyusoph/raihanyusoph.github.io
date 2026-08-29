@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/0qvt962l_68yz.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"essays","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"paano-iboboto-sectoral-representatives-bangsamoro-parliament","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"3i3AkCF10onSyPZ8ksnJY"}

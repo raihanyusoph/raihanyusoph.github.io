@@ -1,0 +1,19 @@
+{
+  "name": "Raihan A. Yusoph",
+  "short_name": "Raihan Yusoph",
+  "description": "Academic website of Raihan A. Yusoph, practitioner of history and peace researcher.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5efe2",
+  "theme_color": "#6f1025",
+  "id": "/?homescreen=1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
